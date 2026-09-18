@@ -1,6 +1,6 @@
 recipe: default.v1
 language: en
-assistant_id: antique-plan
+assistant_id: gentle-tangerine
 pipeline:
 - name: CompactLLMCommandGenerator
   llm:
