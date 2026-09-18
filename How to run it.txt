@@ -1,4 +1,4 @@
-1. clone this repository: git clone git@github.com:Dreamcatcher600/Rasa-Pro-Test.git
+1. clone this repository: git clone git@github.com:Daiji-K/medicinal-plant-identification.git
 2. Run Powershell on this dictionary
 3. Run `$env:RASA_LICENSE="YOUR_LICENSE_KEY (license.txt)"`
 4. Run "cd ./source/appointment-assistant"
